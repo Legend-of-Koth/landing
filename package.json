@@ -1,0 +1,9 @@
+{
+  "name": "legendofkoth",
+  "version": "1.0.0",
+  "description": "Legend of Koth is a Play to Fun & Earn - NFT Game developed on the BNB Chain.",
+  "main": "index.js",
+  "repository": "https://github.com/Legend-of-Koth/landing",
+  "author": "Hans",
+  "license": "MIT"
+}
